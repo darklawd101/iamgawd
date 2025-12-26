@@ -30,7 +30,7 @@ h1 {
 :root {
   --bg: #0e0e10;
   --text: #e8e8ef;
-  --muted: #38b0c7;
+  --muted: #d3d3d3;
   --accent: #f53b31;
   --accent-2: #f89504;
   --accent-3: #facc02;
@@ -130,6 +130,7 @@ body {
   color: transparent;
 }
 .subtitle {
+  font-family: var(--font-sans);
   color: var(--muted);
   font-size: 0.80rem;
   font-weight: 500;
