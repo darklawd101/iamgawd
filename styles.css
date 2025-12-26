@@ -135,6 +135,14 @@ body {
   font-weight: 500;
 }
 
+.center {
+  text-align:center;
+}
+
+.small {
+  font-size: '50%';
+}
+
 /* Optional: manual reading progress bar – set width via inline style or JS */
 /* <div class="progress" style="--w:40%"></div> */
 .progress {
